@@ -173,8 +173,7 @@ java -cp "out/production/Banking Management System:libs/*" BankManagementSystem
 ---
 
 ## 📄 License
-A license is **not included** in the project.  
-Add a `LICENSE` file (MIT recommended) if you want it to be open-source.
+A license is **included** in the project.
 
 ---
 
@@ -187,4 +186,4 @@ Email : agarwalaryan9114@gmail.com
 ---
 
 ## ✅ Final Notes
-This README describes **exactly what exists** in your uploaded Banking Management System project — no invented features, no assumptions beyond what the compiled files + SQL show.
+This README describes **exactly what exists** in the uploaded Banking Management System project — no invented features, no assumptions beyond what the compiled files + SQL show.
