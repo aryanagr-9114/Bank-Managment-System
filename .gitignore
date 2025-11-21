@@ -1,0 +1,12 @@
+# compiled classes and build output
+/out/
+build/
+*.class
+
+# local config
+config.properties
+resources/config.properties
+
+# IDE
+/.idea/
+*.iml
